@@ -1,4 +1,6 @@
-## Hi there 👋
+## Caipora
+
+Here we collect works developed by the Caipora group of the Department of Mathematics, University of Brasília.
 
 <!--
 
